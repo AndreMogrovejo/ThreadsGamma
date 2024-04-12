@@ -1,5 +1,4 @@
 <img src="https://github.com/ygit/swiftui/blob/main/Swiftui.jpeg" title="SwiftUI logo" float=center height=512>
-![cris_clown](https://github.com/AndreMogrovejo/ThreadsGamma/assets/96781607/a2d5e52c-9034-4bc3-898c-721a90474580)
 
 # Awesome SwiftUI
 
